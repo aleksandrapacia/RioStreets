@@ -15,5 +15,6 @@ Geospatial project acknowledging streets' shapes
 4. Output
 <img width="2624" height="1400" alt="image" src="https://github.com/user-attachments/assets/74368209-7349-4aa7-b93c-d63826e3f414" />
 
-5. Interpretation
+5. Interpretation:
+
 While Ipanema’s rigid grid offers a easier transportation, Rocinha’s on the Rio hills puts a heavy 'navigational friction' on its residents. This comparison illustrates how geography and socio-economic planning converge to limit availability and ease of travel in poorer districts.
